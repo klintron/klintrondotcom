@@ -1,6 +1,7 @@
 ---
 title: Newsletter
 author: kron
+type: products
 date: 2015-10-31T01:39:26+00:00
 
 ---
